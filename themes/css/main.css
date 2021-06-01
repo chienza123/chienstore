@@ -6,7 +6,6 @@
 body{
 	font-size: 12px;
 	font-family: 'Open Sans', arial, tahoma, sans-serif;
-	background:url(../images/bg.png) repeat 0 0 fixed;
 }
 label, input, button, select, textarea{
 	font-size: 12px;
@@ -795,7 +794,7 @@ section.our_client .row{
 	-webkit-transition: all .3s ease-in-out;
 	transition: all .3s ease-in-out;
 }
-.button{
+.button {
 	color: #fff;
 	border: solid 2px #fff;
 	border-radius: 50%;
