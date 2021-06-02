@@ -466,7 +466,7 @@ section.navbar{
 /* title style for h4 tag
 ----------------------------------------------------------------------------- */
 h4{
-	color: #0078D7;
+	color: #ff0a0a;
 }
 h4.title{
 	background: url(../images/line_bar.png) 0 8px repeat-x;
@@ -503,8 +503,8 @@ h4.title .pull-right{
 }
 h4.title .left,h4.title .right{
 	display: inline-block;
-	width: 22px;
-	height: 22px;
+	width: 32px;
+	height: 32px;
 	cursor: pointer;
 }
 h4.title .left:hover,h4.title .right:hover{
